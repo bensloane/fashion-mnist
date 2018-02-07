@@ -12,4 +12,4 @@ Some rough performance results on Fashion MNIST dataset
 
 | Classifier | Preprocessing | Fashion test accuracy | MNIST test accuracy | Submitter| Code |
 | --- | --- | --- | --- | --- |--- |
-|2 Conv Layers + max pooling and 1 FC ~3M parameters | standard preprocessing (mean/std subtraction/division) | 0.924 | - | [Ben Sloane](https://github.com/bensloane) | [:link:](https://github.com/bensloane/fashion-mnist/blob/master/fashion_mnist.ipynb) |
+|2 Conv Layers + max pooling and 1 FC ~3M parameters | standard preprocessing (mean/std subtraction/division) | 0.923 | - | [Ben Sloane](https://github.com/bensloane) | [:link:](https://github.com/bensloane/fashion-mnist/blob/master/fashion_mnist.ipynb) |
