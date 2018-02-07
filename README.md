@@ -2,7 +2,7 @@
 Using SAS deepLearn API to classify apparel
 ## Notebooks and file descriptions 
 This repository contains a series of notebooks to get you up and running in the SAS deep learning framework, deepLearn. 
-1. The fashion_mnist notebook documents how to build a small LeNet style CNN to categorize the contents of the Fashion MNIST dataset. 
+1. The fashion_mnist notebook documents how to build a LeNet style CNN to categorize the contents of the Fashion MNIST dataset. 
 2. The fashion_mnist_dataprep notebook creates image files from the 'original' Fashion MNIST CSV files. 
 3. The casplt.py file is a convenience function for plotting images originating from a CASTable. 
 ## Data 
